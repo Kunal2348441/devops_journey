@@ -3,3 +3,4 @@ git pull
 git status
 git init
 git config --global user.name "kunal62"
+git config --global user.email "kunalgarg62@gmail.com"
